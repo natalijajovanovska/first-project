@@ -106,15 +106,7 @@ body{
         margin-top: 0;
     } 
 }
-@media only screen and (max-width: 640px) {
-    .pic{
-        height: auto;
-    }
-    .display{
-        display: block;
-    }
-}
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 425px) {
     .navbar-brand{
         margin-left: 10px;
     }
@@ -179,7 +171,7 @@ body{
         margin-left: -18px;
     }
 }
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 425px) {
     .backgroundPic{
         display: flex;
     }
@@ -233,7 +225,7 @@ body{
         margin: -20px 25px 0;
     }
 }
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 425px) {
     .staff{
         margin: 0;
     }
@@ -241,13 +233,3 @@ body{
         width: 60%;
     }
 }
-
-
-
-
-
-
-
-
-
-
